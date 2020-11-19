@@ -1,0 +1,21 @@
+.Tagline-projects{
+    height: 15vh;
+    background-color: #91F7F7;
+    color: #2837d7;
+    text-align: center!important;
+    font-size: 5rem;
+    font-weight: 400;
+    padding-bottom: 4vh;
+
+}
+.projects-info{
+    background-color:#2837d7 ;
+    min-height: 60vh;
+    padding-top: 10vh;
+}
+@media screen and (max-width:480px){
+    .group{
+        max-width: 400px;
+        overflow-x: hidden;
+    }
+}

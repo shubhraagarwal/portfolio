@@ -1,0 +1,16 @@
+.Nav{
+    float: right;
+    margin-left: 20vw;
+    color: black;
+     overflow-x: hidden;
+
+}
+.z-ind{
+    z-index: 999;
+    background-color: red;
+}
+@media screen and (max-width: 480px){
+    .Nav{
+        margin-left: 0;
+    }
+}
